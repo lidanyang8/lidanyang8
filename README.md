@@ -9,7 +9,7 @@
 <p align=center>
   <div align=center>
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-        <img align="left" src="https://streak-stats.demolab.com/demo/preview.php?user=lidanyang8&theme=react&locale=zh_Hans&exclude_days=Sun" style="display: block;" width="45%">
+        <img align="left" src="https://streak-stats.demolab.com?user=lidanyang8&theme=react&locale=zh_Hans&date_format=%5BY.%5Dn.j&mode=weekly" style="display: block;" width="45%">      
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
     <img align="right" src="https://github-readme-stats.vercel.app/api?username=lidanyang8&show_icons=true&theme=react&border_color=61dafb&hide_border=true&count_private=true&locale=cn" width="45%" />
